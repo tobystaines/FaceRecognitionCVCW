@@ -3,7 +3,7 @@ Author: Toby Staines
 
 ### Files included in submission:
 
-- Main Report: CV_Project Report_TS_v1.0.pdf
+- Main Report: CV_Project Report_TS_v1.1.pdf
 - ConfusionMatrix.xlsx: A confusion matrix was requested in the specification, but a 54 class confusion matrix is too large to fit sensibly in a word document, so is included here as an appendix.
 
 #### Core Functions:
