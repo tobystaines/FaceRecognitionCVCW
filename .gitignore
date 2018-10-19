@@ -1,0 +1,9 @@
+
+**/logs
+**/dumps
+
+**/.idea
+**/__pycache__
+**/.ipynb_checkpoints
+
+/Code_and_Data/*.mat
