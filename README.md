@@ -1,4 +1,4 @@
-Computer Vision Coursework - Readme file
+# Computer Vision Coursework - Readme file
 Author: Toby Staines
 
 Files included in submission:
@@ -6,9 +6,6 @@ Files included in submission:
 Main Report: CV_Project Report_TS_v1.0.pdf
 ConfusionMatrix.xlsx: A confusion matrix was requested in the specification, but a 54 class confusion matrix 
 		      is too large to fit sensibly in a word document, so is included here as an appendix.
-
-The code and data listed below can be accessed here:
-https://cityuni-my.sharepoint.com/:u:/g/personal/toby_staines_city_ac_uk/EVc5tUatgGxPo3Qn4c0QdjgBMFvjzuy9HVudCYxipRv3fQ?e=nPI4mu
 
 Core Functions:
 detectNum(): As described in the project report
@@ -46,7 +43,7 @@ detectNum_buildAndTest.m - This script was used in the development of the detect
 ExtractFeaturesAndTrainModels.m - This script replicates the training and testing of the six classifiers 
 		included in the final RecogniseFace function.
 
-The following data files contain the models required by RecogniseFace:
+The following data files contain the models required by RecogniseFace. They are not uploaded to GitHub due to size constraints:
 tobynet.mat         
 HOGNB.mat    
 HOGRandomForest.mat 
