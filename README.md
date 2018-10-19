@@ -1,4 +1,4 @@
-# Computer Vision Coursework - Readme file
+# Computer Vision Coursework
 Author: Toby Staines
 
 ### Files included in submission:
